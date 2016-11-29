@@ -292,7 +292,7 @@ Podcast:
 - Upload new podcast
 
 YouTube:
-- Turn video published
+- Make video published
 
 
 # Shell functions
@@ -312,3 +312,4 @@ ffmpeg -i "concat:Intro.mp3|youtube_filename.mp3|CTA_number.mp3" -c copy 'youtub
 
 # embed cover art
 ffmpeg -i youtube_filename_podcast.mp3 -i youtube_filename.jpg -map 0 -map 1 -acodec copy youtube_filename_podcast_final.mp3
+'''
