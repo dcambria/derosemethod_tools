@@ -1,0 +1,48 @@
+(m|M)(e|é|E|É)(t|T)(o|O)(d|D)(o|O)\ (d|D)(e|E).?(r|R)(o|O)(s|S)(e|E)
+casa com:
+Método DeRose
+metodo derose
+método DeROSE
+metodo de rose
+etc
+
+(d|D)(e|E).?(r|R)(o|O)(s|S)(e|E)\ (m|M)(e|é|E|É)(t|T)(h|H)(o|O)(d|D)
+
+casa com:
+DeRose Method
+derose method
+de rose method
+DeRose METHOD
+etc
+
+(m|M)(e|é|è|E|É|È)((t|T)(h|H)(o|O)(d|D)(e|E))\ (d|D)(e|E).?(r|R)(o|O)(s|S)(e|E)
+
+casa com:
+Methode derose
+methode de rose
+methode DeROSE
+méthode Derose
+Mèthode DeRose
+Méthode DeRose
+etc
+
+---------
+Depois basta substituir por:
+
+Método DeROSE
+ou
+Método DeRose
+ou
+'M&eacute;todo DeR<span style="font-variant:small-caps;">ose</span>'
+
+DeRose Method
+ou
+DeROSE Method
+ou
+'DeR<span style="font-variant:small-caps;">ose</span> Method'
+
+Méthode DeRose
+ou
+Méthode DeROSE
+ou
+'M&eacute;thode DeR<span style="font-variant:small-caps;">ose</span>'
